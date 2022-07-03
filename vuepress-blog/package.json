@@ -1,0 +1,20 @@
+{
+  "name": "vuepress-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "vuepress": "^1.5.1",
+    "vuepress-theme-melodydl": "^1.1.2"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "author": "",
+  "license": "ISC"
+}
