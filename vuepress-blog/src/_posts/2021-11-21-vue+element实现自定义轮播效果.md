@@ -13,7 +13,7 @@ tags:
 ![lb](https://img-blog.csdnimg.cn/50c2f93e5e9143238202998e3e8e9f35.gif#pic_center)
 ##### 实现代码
 Carouse.html
-```html
+```bash
 <!DOCTYPE html>
 <html lang="en">
 
@@ -102,7 +102,7 @@ style样式
 
 html中的element代码
 
-```html
+```bash
 <template>
     <el-carousel indicator-position="outside" style="margin: 50px auto; width: 1152px;">
       <el-carousel-item v-for="item in imgArray" :key="item">

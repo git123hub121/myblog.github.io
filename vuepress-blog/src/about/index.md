@@ -11,7 +11,7 @@ headerImage: /about-bg.jpg
 
 Hi，你们好，我叫lzm，致力于学习前端开发，有时游离于 Github 边缘地带。爱好篮球，喜欢电竞游戏，技术一般，经常被虐:joy:，但偶尔可以虐虐菜:tada:。<br/>
 
-本主题是[Vuepress](https://www.vuepress.cn/)构建前端静态博客，觉得主题好用的，那就给作者（不是我）点个[Star](https://github.com/youdeliang/vuepress-theme-melodydl)吧～
+本主题是[Vuepress](https://www.vuepress.cn/)构建前端静态博客，觉得主题好用的，那就给作者（不是我）点个[Star](https://github.com/git123hub121/VuepressBlog)吧～
 
 ### 关注我，不错过最新文章和大佬开源项目：
 

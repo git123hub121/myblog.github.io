@@ -11,9 +11,9 @@ jobs:
       uses: jenkey2011/vuepress-deploy@master
       env:
         ACCESS_TOKEN: ${{ secrets._TOKEN }}
-        TARGET_REPO: youdeliang/youdeliang.github.io
+        TARGET_REPO: git123hub121/myblog.github.io
 
         TARGET_BRANCH: gh-pages
         BUILD_SCRIPT: yarn && yarn build
         BUILD_DIR: src/.vuepress/dist/
-        CNAME: www.ydlcq.cn
+        # CNAME: www.ydlcq.cn
